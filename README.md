@@ -126,3 +126,27 @@ data-warehouse-project/
 ├── LICENSE                          # License file
 ├── .gitignore                       # Ignore unnecessary files
 └── requirements.txt                 # Project dependencies
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x250.png?text=Data+Engineering+Journey" alt="Banner Image"/>
+</p>
+
+```
+
+# 👨‍💻 About Me
+
+Hi, I’m **Abdul Rafay** 👋  
+
+🎓 A **Data and Business Analyst** and aspiring **Data Engineer** from Pakistan.  
+
+🐍 Skilled in **Python, SQL, and Data Analytics and Data Pipelines**.  
+
+📊 Exploring **Data Warehousing, ETL pipelines, and Analytics solutions**.  
+
+🚀 On a journey to grow into **AI, ML, and Big Data**.  
+
+🌐 I also share my **learning journey and projects** on [linkedin.com/in/abdulrrafay](#) & [(https://github.com/Rafayrafay321?tab=repositories)](#).  
+
+📫 Let’s connect: [(https://github.com/Rafayrafay321?tab=repositories)](#) | [linkedin.com/in/abdulrrafay](#)  
+
